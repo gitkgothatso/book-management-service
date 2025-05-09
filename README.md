@@ -1,7 +1,9 @@
 ### BooK Management Service
 
- This is a backend service that handles ADD, UPDATE, GET AND DELETE operation for the service.
- Please make sure that port 8080 is free for use by the application before starting.
+ This is a backend service that handles ADD, UPDATE, GET AND DELETE operations for the book management service.
+ 
+ Please make running this service, please make sure that port `8080` is free for use by the application.
+ 
  For testing of this service alone, your can run the following commands:
 
 1. `mvn clean package`
